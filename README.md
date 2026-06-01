@@ -52,8 +52,8 @@ Results from the business questions are loaded into Pandas DataFrames and visual
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/betancourt-ncs/chinook-analysis.git
-   cd chinook-analysis
+   git clone https://github.com/betancourt-ncs/chinook-analysis-sql.git
+   cd chinook-analysis-sql
    ```
 
 2. Create and activate a virtual environment
