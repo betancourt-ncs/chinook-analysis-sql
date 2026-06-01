@@ -83,3 +83,5 @@ JOIN connects two tables that share a column or key in common, allowing data to 
 
 **When would I use SQL vs Pandas?**
 SQL is the better choice when retrieving data with precision — filtering, grouping, and joining at the database level before it reaches Python. Pandas is better suited for loading that retrieved data into a structured format (dataframes) for further analysis, transformation, and visualization.
+
+For more info visit https://roadmap.sh/projects/querying-sql-python.
