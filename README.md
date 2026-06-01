@@ -81,5 +81,5 @@ Results from the business questions are loaded into Pandas DataFrames and visual
 **What does JOIN do?**
 JOIN connects two tables that share a column or key in common, allowing data to be fetched from both simultaneously. By default, it returns only rows where a match exists in both tables — the intersection of their data.
 
-**When would you use SQL vs Pandas?**
-SQL is the better choice when retrieving data with precision — filtering, grouping, and joining at the database level before it reaches Python. Pandas is better suited for loading that retrieved data into a structured format for further analysis, transformation, and visualization.
+**When would I use SQL vs Pandas?**
+SQL is the better choice when retrieving data with precision — filtering, grouping, and joining at the database level before it reaches Python. Pandas is better suited for loading that retrieved data into a structured format (dataframes) for further analysis, transformation, and visualization.
